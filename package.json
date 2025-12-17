@@ -1,0 +1,30 @@
+{
+  "name": "grammar-analyzer-backend",
+  "version": "1.0.0",
+  "description": "Backend service for grammar analysis",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "build": "npm install"
+  },
+  "author": "Scathak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scathak/grammar-analyzer-backend.git"
+  },
+  "keywords": [
+    "grammar",
+    "analyzer",
+    "backend",
+    "AI"
+  ],
+  "bugs": {
+    "url": "https://github.com/Scathak/grammar-analyzer-backend/issues"
+  },
+  "homepage": "https://github.com/Scathak/grammar-analyzer-backend#readme"
+}
